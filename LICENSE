@@ -1,0 +1,50 @@
+TTML LYRICS DATABASE — SYNCHRONIZATION CREDIT LICENSE
+Version 1.0
+
+Copyright (c) 2026, the respective contributors to this repository.
+
+1. SCOPE
+
+This licence applies to the files in the `ttmlmaker/` and `composer/` directories of the TTML Lyrics Database, but only to the extent that the repository owner or relevant contributor has rights to license their own contributions. It does not grant rights to underlying lyrics or other third-party material.
+
+2. PERMITTED USE
+
+Subject to the conditions in this licence, you may use, copy, modify, convert, and redistribute these files, including for personal or commercial purposes. You may also create and distribute files in other formats from them.
+
+3. SYNCHRONIZATION CREDIT MUST BE PRESERVED
+
+Most TTML files contain synchronization-credit metadata in a custom namespace, represented as a key-value pair whose key is `syncBy`.
+
+If a file contains a `syncedBy` or any such field:
+
+a. You must not remove, falsify, or misrepresent its value.
+
+b. If you modify or redistribute the TTML file, you must preserve the `syncedBy` (or equivalent) field and its value.
+
+c. If you convert the file to another format, you must preserve the synchronization credit in an equivalent metadata field whenever reasonably supported by that format. If the format cannot store such metadata, you must include the credit in accompanying documentation or another reasonably accessible form that remains associated with the converted lyrics.
+
+d. You must not imply that you performed the credited synchronization if you did not.
+
+If a file does not contain a `syncedBy` (or equivalent) field, this licence does not require you to invent a credit or attribute synchronization to a particular person.
+
+4. NO CLAIM OVER UNDERLYING LYRICS
+
+This licence does not grant ownership of, or permission to use, the underlying lyrics. Lyrics and other third-party material remain subject to the rights of their respective authors, publishers, and rights holders.
+
+You are responsible for obtaining any additional permissions or licences required for your intended use of the underlying lyrics. Compliance with this licence does not replace those permissions.
+
+5. NO ADDITIONAL RESTRICTIONS
+
+When redistributing files or adaptations covered by this licence, you may not impose additional restrictions that prevent recipients from exercising the permissions granted by this licence, provided they comply with its conditions.
+
+6. DISCLAIMER
+
+The files are provided "AS IS", without warranties or conditions of any kind, express or implied, to the fullest extent permitted by applicable law. The licensor is not liable for any claim, damages, or other liability arising from the files or their use, to the fullest extent permitted by applicable law.
+
+7. TERMINATION
+
+If you fail to comply with the conditions of this licence, the permissions granted to you under it terminate to the extent permitted by applicable law. Your permissions may be reinstated if the violation is corrected, subject to applicable law.
+
+8. RIGHTS RESERVED
+
+All rights not expressly granted by this licence are reserved. This licence only covers rights the licensor is legally entitled to license.
