@@ -6,7 +6,7 @@ A collection of TTML lyric files that I've personally synchronized.
 
 I create and synchronize lyrics using **TtmlMaker**, my private Android application fully vibe-coded with Claude, taking inspiration from [amll-tool](https://github.com/amll-dev/amll-ttml-tool) and [Better Lyrics Composer](https://github.com/better-lyrics/composer).
 
-TtmlMaker mostly follows Better Lyrics' TTML formatting conventions.
+TtmlMaker mostly follows Apple Music & Better Lyrics' TTML formatting conventions.
 
 ## Repository Structure
 
